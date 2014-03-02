@@ -12,7 +12,7 @@ You have decided to implement a revolutionary new game!  Realising that you only
 * You can assume that the input is always correct.
 
 
-[[Board]]
+![alt tag](https://raw.github.com/leonfs/InterviewTest--RevolutionaryGame/master/Board.png)
 
 A player can issue a set of commands to the game which will result in an output of
 the location and direction of the piece after the moves.  You choose to use the output format X Y Direction, so a piece that has moved two squares right and one north and is facing north would be in position 2 1 N.  Commands are either a request to move forward (M) or to turn left (L) or right (R) by 90 degrees.
