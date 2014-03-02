@@ -19,10 +19,11 @@ the location and direction of the piece after the moves.  You choose to use the 
 
 You come up with the following example inputs for a board of size 5.
 
-------------------------------------
+
 | Input | Output | Diagram | Notes |
-| MRMLMRM | 2 2 E | [[First Table Board ]] | | 
-| RMMMLMM | 3 2 N | [[Second Table Board ]] | |
-| MMMMM | 0 4 N | [[Third Table Board ]] | Moves to the top square and then attempts to make one further move north|
+| ------ | -------- | ------- | ----------|
+| MRMLMRM | 2 2 E | ![alt tag](https://raw.github.com/leonfs/InterviewTest--RevolutionaryGame/master/First%20Table%20Board.png) | | 
+| RMMMLMM | 3 2 N | ![alt tag](https://raw.github.com/leonfs/InterviewTest--RevolutionaryGame/master/Second%20Table%20Board.png) | |
+| MMMMM | 0 4 N | ![alt tag](https://raw.github.com/leonfs/InterviewTest--RevolutionaryGame/master/Third%20Table%20Board.png) | Moves to the top square and then attempts to make one further move north|
 
 We are looking for a solution that is simple but well structured. Please include any unit tests. Use any object orientated language of your choice (preferably C#). Our preferred unit-test framework is NUnit, but feel free to use whichever you are most familiar with. The suggested duration of this exercise is 1-2 hours. When you're done, zip up the files that we'd need to build your code and run the tests, then email it back to us. We'll review it and if you come in for an interview, we'll discuss it with you and get you to extend/refactor it.
