@@ -1,7 +1,3 @@
-The interview problem
-
-Problem description
-
 You have decided to implement a revolutionary new game!  Realising that you only have a limited amount of time you have decided to implement it in separate stages. The first stage that you choose to create consists just of a playing board and a piece and the ability for a player to move the piece around the board.  You decide to make the following initial assumptions and create a quick mock up of the board shown below.
 
 * The board has a fixed size of 5 squares (assume it is always square).
